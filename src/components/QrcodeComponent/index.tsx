@@ -1,4 +1,3 @@
-import React from 'react'
 import { Container, Content } from './styles'
 
 import imgQrcode from '../../assets/image-qr-code.png'
@@ -13,7 +12,7 @@ export function Qrcode() {
                     <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
                 </Content>
                 <p>Frontend Mentor - QR code component solution</p>
-                <a href="https://github.com/frantecbh/qr-code-component-react" target="_blank" >GitHub project</a>
+                <a href="https://github.com/frantecbh/qr-code-component-react" target="_blank" rel="noreferrer">GitHub project</a>
             </Container>
         </>
     )
