@@ -8,7 +8,7 @@ See details about the challenge at [Frontend Mentor ](https://www.frontendmentor
 
 ![Design preview for the QR code component coding challenge](./src/assets/desktop-preview.jpg)
 
-See how the project turned out - [QR code component](https://frantecbh.github.io/qr-code-component-react/).
+This project is published on GithubPages see -> [QR code component](https://frantecbh.github.io/qr-code-component-react/).
 
 
 ## libraries
