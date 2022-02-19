@@ -34,10 +34,10 @@ export const Content = styled.div`
       height: 380px;
 
       border-radius: 8px;
-      padding: 0 1rem;
+      padding: 1rem;
 
       img{
-      padding-top: 1rem ;
+      
       width: 100%;
       border-radius: 8px;
   }
